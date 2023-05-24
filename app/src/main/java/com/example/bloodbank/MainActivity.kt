@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             BloodBankTheme {
                 // A surface container using the 'background' color from the theme
-                // GitHub Sync Practice Hello
+                // GitHub Sync Practice Hello ... From Github Changed
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = Color.White
