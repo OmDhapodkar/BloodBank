@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BloodBank</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="title_activity_display">DisplayActivity</string>
 </resources>
